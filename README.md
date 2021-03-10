@@ -1,16 +1,28 @@
-# youtube_api
+# Youtube Player and Channel API
 
-A new Flutter project.
+This is an application made with Flutter using Youtube API to consult videos from a youtube channel and to 
+play the videos with a player.
 
-## Getting Started
+Il s'agit d'une application créée avec Flutter utilisant l'API de Youtube afin de consulter les videos d'une chaines 
+et de lire les videos grâce à un player.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- API Youtube
+- Player
+- HTTP
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+![Screenshot_20210310-224552](https://user-images.githubusercontent.com/61854420/110704002-babec580-81f4-11eb-9681-79b16a7b88c8.jpg)
+![Screenshot_20210310-224610](https://user-images.githubusercontent.com/61854420/110704006-bb575c00-81f4-11eb-979d-2f13df470b96.jpg)
+
+## Video demo
+
+https://user-images.githubusercontent.com/61854420/110704292-0ec9aa00-81f5-11eb-9ebc-2c232c9c567c.mp4
+
+
+
+
+
