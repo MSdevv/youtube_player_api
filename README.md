@@ -20,7 +20,8 @@ et de lire les videos grâce à un player.
 
 ## Video demo
 
-https://user-images.githubusercontent.com/61854420/110704292-0ec9aa00-81f5-11eb-9ebc-2c232c9c567c.mp4
+https://user-images.githubusercontent.com/61854420/110784473-0790b380-826a-11eb-868a-c647391fc082.mp4
+
 
 
 
