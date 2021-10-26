@@ -1,17 +1,6 @@
 # Youtube Player and Channel API
 
-This is an application made with Flutter using Youtube API to consult videos from a youtube channel and to 
-play the videos with a player.
-
-Il s'agit d'une application créée avec Flutter utilisant l'API de Youtube afin de consulter les videos d'une chaines 
-et de lire les videos grâce à un player.
-
-## Features
-
-- API Youtube
-- Player
-- HTTP
-
+Application made with Flutter using Youtube API to consult videos from a youtube channel and play videos with his player.
 
 ## Screenshots
 
